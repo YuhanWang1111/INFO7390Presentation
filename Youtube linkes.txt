@@ -1,3 +1,0 @@
-Youtube Link:
-DemoPart1 Repo2Docker: https://youtu.be/0OKhV8oJWLk
-DemoPart2 S2I: https://youtu.be/8zLNJ17cdTw
